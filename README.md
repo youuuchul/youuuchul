@@ -1,7 +1,6 @@
 <img src="./assets/banner.svg" alt="신유철 · Yucheol Shin — 데이터와 AI로 문제를 정의하고 실행으로 연결합니다" width="100%" />
 
 <p>
-  <a href="https://youuuchul.github.io/resume.pdf"><img src="https://img.shields.io/badge/%EC%9D%B4%EB%A0%A5%EC%84%9C-PDF-7a4a35?style=flat-square" alt="이력서 PDF" /></a>
   <a href="https://youuuchul.github.io/portfolio.pdf"><img src="https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-PDF-2f4a52?style=flat-square" alt="포트폴리오 PDF" /></a>
   <a href="mailto:dbcjf25@gmail.com"><img src="https://img.shields.io/badge/%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%AC%B8%EC%9D%98-38578f?style=flat-square" alt="이메일 문의" /></a>
   <img src="https://img.shields.io/badge/%EC%83%81%ED%83%9C-%EC%B1%84%EC%9A%A9%C2%B7%EC%9D%98%EB%A2%B0%20%EA%B0%80%EB%8A%A5-574763?style=flat-square" alt="상태: 채용·의뢰 가능" />
