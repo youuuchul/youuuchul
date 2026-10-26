@@ -60,7 +60,7 @@ SQL · BigQuery · Redash · Python · LightGBM · YOLO · React · Next.js · F
 ## 공개 레포
 
 - [placewave-analytics](https://github.com/youuuchul/placewave-analytics) — 가상 플랫폼 KPI 대시보드 · A/B 테스트
-- [sql-jd-trainer](https://github.com/youuuchul/sql-jd-trainer)
+- [sql-jd-trainer](https://github.com/youuuchul/sql-jd-trainer) - 데이터 분석가 jd 기반 연습 문제 SQL 에디터 (비즈니스 시나리오, 데이터셋, 문제/가설 시나리오 등 고도화 예정)
 - [study-log](https://github.com/youuuchul/study-log)
 - [i2v-motion-experiments](https://github.com/youuuchul/i2v-motion-experiments) — 이미지 → 영상 모델 실험
 - [Deep-Learning-Archive](https://github.com/youuuchul/Deep-Learning-Archive)
