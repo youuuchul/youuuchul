@@ -3,6 +3,7 @@
 <p>
   <a href="https://youuuchul.github.io/"><img src="https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-Web-7a4a35?style=flat-square" alt="포트폴리오 웹" /></a>
   <a href="https://youuuchul.github.io/portfolio.pdf"><img src="https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-PDF-2f4a52?style=flat-square" alt="포트폴리오 PDF" /></a>
+  <a href="https://youuuchul.github.io/ui-lab/"><img src="https://img.shields.io/badge/UI%20Lab-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%C2%B7%EB%B8%94%EB%A1%9D-6b8cff?style=flat-square" alt="UI Lab 컴포넌트·블록" /></a>
   <a href="mailto:dbcjf25@gmail.com"><img src="https://img.shields.io/badge/%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%AC%B8%EC%9D%98-38578f?style=flat-square" alt="이메일 문의" /></a>
   <img src="https://img.shields.io/badge/%EC%83%81%ED%83%9C-%EC%B1%84%EC%9A%A9%C2%B7%EC%9D%98%EB%A2%B0%20%EA%B0%80%EB%8A%A5-574763?style=flat-square" alt="상태: 채용·의뢰 가능" />
 </p>
@@ -46,6 +47,7 @@ Hermes 에이전트를 로컬 크론으로 돌려 채용 공고 수집·분류, 
 
 ## 공개 레포
 
+- [ui-lab](https://github.com/youuuchul/ui-lab) — 프로젝트에서 만든 UI 컴포넌트·블록·기획 문서 모음 · [갤러리](https://youuuchul.github.io/ui-lab/)
 - [placewave-analytics](https://github.com/youuuchul/placewave-analytics) — 가상 플랫폼 KPI 대시보드 · A/B 테스트
 - [sql-jd-trainer](https://github.com/youuuchul/sql-jd-trainer) — 데이터 분석가 JD 기반 SQL 연습 에디터
 - [web-playground](https://github.com/youuuchul/web-playground) — 웹 기술 테스트 · 소규모 웹앱 실험
