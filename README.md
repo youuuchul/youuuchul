@@ -26,8 +26,10 @@ AI 에이전트에 여러 작업을 나눠 맡기고, 가설 검증과 최종 �
 | 프로젝트 | 한 줄 | 결과 | 링크 |
 |---|---|---|---|
 | PetGlobe | 반려동물 돌봄 기록을 기억하고, 그 기록을 근거로 대화하는 AI 컴패니언 | 지난 일 질문에 맞는 근거 56% → 83% | [petglobe.app](https://petglobe.app) |
-| HeartTable | AI 캐릭터와 5분씩 대화해 보고 고르는 소개팅 | 첫 응답 12.1초 → 1.3초 | [hearttable.shop](https://hearttable.shop) |
+| HeartTable | AI 캐릭터와 대화해 보고 고르는 소개팅 | 30턴 전 이야기 기억 36% → 86% | [hearttable.shop](https://hearttable.shop) |
 | Murder Mystery Generator | AI와 사건을 만들고, 빈 역할은 AI 용의자가 맡는 추리 게임 | 1차 완성 평균 약 8시간 · AI 대화 비용 −82% | [murdermysterygenerator.shop](https://murdermysterygenerator.shop) |
+| 하루쿼리 | 실무와 연결되는 쿼리·데이터 분석 학습 앱 | 문제 130개 · 함수 카드 119장 | [sql-jd-trainer.vercel.app](https://sql-jd-trainer.vercel.app) · [코드](https://github.com/youuuchul/sql-jd-trainer) |
+| 바다클밍 | 설치 없이 브라우저에서 오르는 바다 클라이밍 웹 메타버스 (실시간 멀티플레이) | - | [climb-in-paradise.vercel.app](https://climb-in-paradise.vercel.app) |
 | Placewave | 가상 플랫폼 데이터로 만든 퍼널·검색 품질 대시보드 | 검색 실패 → 라벨링 → 랭킹 개선 | [대시보드](https://placewave-analytics.vercel.app) · [코드](https://github.com/youuuchul/placewave-analytics) |
 | 공공입찰 RFP 분석 RAG | 제안요청서 100건에 근거를 달아 답하는 질의응답 (팀 · PM) | 응답 20.3초 → 10.9초 | - |
 | 의약품 인식·음성 안내 | 알약 사진을 인식해 음성으로 안내 (팀 · PM) | 알약 탐지 mAP 0.79 → 0.99 | - |
@@ -49,7 +51,7 @@ Hermes 에이전트를 로컬 크론으로 돌려 채용 공고 수집·분류, 
 
 - [ui-lab](https://github.com/youuuchul/ui-lab) — 프로젝트에서 만든 UI 컴포넌트·블록·기획 문서 모음 · [갤러리](https://youuuchul.github.io/ui-lab/)
 - [placewave-analytics](https://github.com/youuuchul/placewave-analytics) — 가상 플랫폼 KPI 대시보드 · A/B 테스트
-- [sql-jd-trainer](https://github.com/youuuchul/sql-jd-trainer) — 데이터 분석가 JD 기반 SQL 연습 에디터
+- [sql-jd-trainer](https://github.com/youuuchul/sql-jd-trainer) — 하루쿼리: 실무와 연결되는 쿼리·데이터 분석 학습 앱
 - [web-playground](https://github.com/youuuchul/web-playground) — 웹 기술 테스트 · 소규모 웹앱 실험
 - [i2v-motion-experiments](https://github.com/youuuchul/i2v-motion-experiments) — 이미지 → 영상 모델 실험
 - [study-log](https://github.com/youuuchul/study-log) — 머신러닝·컴퓨터비전 학습 기록
