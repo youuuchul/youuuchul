@@ -29,7 +29,7 @@ AI 에이전트에 여러 작업을 나눠 맡기고, 가설 검증과 최종 �
 | HeartTable | AI 캐릭터와 대화해 보고 고르는 소개팅 | 30턴 전 이야기 기억 36% → 86% | [hearttable.shop](https://hearttable.shop) |
 | Murder Mystery Generator | AI와 사건을 만들고, 빈 역할은 AI 용의자가 맡는 추리 게임 | 1차 완성 평균 약 8시간 · AI 대화 비용 −82% | [murdermysterygenerator.shop](https://murdermysterygenerator.shop) |
 | 하루쿼리 | 실무와 연결되는 쿼리·데이터 분석 학습 앱 | 문제 130개 · 함수 카드 119장 | [sql-jd-trainer.vercel.app](https://sql-jd-trainer.vercel.app) · [코드](https://github.com/youuuchul/sql-jd-trainer) |
-| 바다클밍 | 꿈의 휴양지에서 클라이밍과 바다를 즐기는 웹 메타버스 (클라이밍 · 서핑 · 요가 · 커뮤니티) | - | [climb-in-paradise.vercel.app](https://climb-in-paradise.vercel.app) |
+| 바다클밍 | 꿈의 휴양지에서 클라이밍과 바다를 즐기는 웹 메타버스 (클라이밍 · 서핑 · 요가 · 커뮤니티) | - | [climbinparadise.com](https://climbinparadise.com) |
 | Placewave | 가상 플랫폼 데이터로 만든 퍼널·검색 품질 대시보드 | 검색 실패 → 라벨링 → 랭킹 개선 | [대시보드](https://placewave-analytics.vercel.app) · [코드](https://github.com/youuuchul/placewave-analytics) |
 | 공공입찰 RFP 분석 RAG | 제안요청서 100건에 근거를 달아 답하는 질의응답 (팀 · PM) | 응답 20.3초 → 10.9초 | - |
 | 의약품 인식·음성 안내 | 알약 사진을 인식해 음성으로 안내 (팀 · PM) | 알약 탐지 mAP 0.79 → 0.99 | - |
